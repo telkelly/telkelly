@@ -7,7 +7,7 @@
 * JavaScript
 * React
 
-Contact with me: [Telegram] (https://t.me/csol1u)
+Contact with me: [Telegram](https://t.me/csol1u)
 
 <!--
 **telkelly/telkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
