@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/shy-blushing-wave-hi-hello-gif-16971861" width="25px"/>
+### Hi there!  <img src="https://c.tenor.com/3eDU879uzT4AAAAi/shy-blushing.gif" width="25px"/>
 
 ### I'm Kelly and I'm Front-End Developer
 
